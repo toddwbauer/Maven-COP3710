@@ -2,7 +2,6 @@
   <library name="Maven: com.opencsv:opencsv:5.0">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/com/opencsv/opencsv/5.0/opencsv-5.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/main/java/libs/h2-1.4.199.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/com/opencsv/opencsv/5.0/opencsv-5.0-javadoc.jar!/" />

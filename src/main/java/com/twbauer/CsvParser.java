@@ -34,6 +34,15 @@ public class CsvParser {
   }
 
   /**
+   *  Returns the rows of the CSV file that the CsvParser parsed.
+   *
+   * @return fileRows A List containing the rows within a CSV file.
+   */
+  protected List getRows() {
+    return fileRows;
+  }
+
+  /**
    * Creates a CSVReader to parse the file, then adds each row in the file to
    * the list of rows in this class, i.e. fileRows.
    *
